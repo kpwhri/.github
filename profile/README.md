@@ -1,6 +1,4 @@
-# Kaiser Permanente Washington Health Research Institute
-
-## About Us: Practical Research for Better Health
+## About Us
 
 Kaiser Permanente Washington Health Research Institute (KPWHRI) is the non-proprietary, public-interest research center within Kaiser Permanente Washington, a nonprofit health system based in Seattle. Kaiser Permanente Washington provides coverage and care for nearly 690,000 people in Washington.
 

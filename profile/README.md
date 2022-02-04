@@ -1,4 +1,4 @@
-![](images/KPWHRI-KP-Blue_420w.png)
+![](https://github.com/kpwhri/.github/blob/main/images/KPWHRI-KP-Blue_420w.png)
 
 ## About Us
 
